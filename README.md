@@ -19,12 +19,6 @@ The report details the application of Bayesian statistical methods to model the 
 ## Results and Conclusions
 The analysis results and conclusions are presented in the report, showcasing the effectiveness of Bayesian methods in biological data analysis.
 
-## How to Run the Project
-(If the project includes code, provide instructions on how to set up and run it.)
-
-## Dependencies
-(List any libraries or tools that need to be installed to run the project, if applicable.)
-
 ## Acknowledgments
-We extend our gratitude to Professor Philippe Lambert and Teaching Assistant Hortense Doms for their guidance and support throughout this project.
+We extend our gratitude to Professor Philippe Lambert and Hortense Doms for their guidance and support throughout this project.
 
